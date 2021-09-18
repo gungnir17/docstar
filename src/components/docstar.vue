@@ -8,7 +8,7 @@
       <a href="https://cli.vuejs.org" target="_blank" rel="noopener">vue-cli documentation</a>.
     </p>
 -->    
-    <h3>很高兴你来到这里, 我是一名区块链博主，如果你也喜欢我的文字，请点一个关注哦</h3>
+    <h3>很高兴你来到这里, 我是一名FinTech博主，如果你也喜欢我的文字，请点一个关注哦</h3>
     <ul>
 <ul>
     <li> <a href="https://mp.weixin.qq.com/s/JcoLVSRtjJUoYE8rSKDL0w">这是我最近写的一篇文章|《小白撸毛大法-获取4EVERLAND空投奖励》</a> </li>
